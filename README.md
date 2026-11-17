@@ -12,5 +12,7 @@ An interactive Tableau dashboard designed to track year-over-year (YoY) sales, p
 * **Interactive UX:** Includes cross-filtering highlight actions (click any subcategory to isolate its trends) and a collapsible filter drawer (Year, Category, Sub-Category, Region).
 
 ## 🚀 How to View
-1. Download `Sales_Dashboard.twbx` from this repository.
+1. Download `Tableau Sales Dashboard Project.twbx` from this repository.
 2. Open it using **Tableau Desktop** or the free **Tableau Public** app.
+3. Or can be viewed through this link: https://public.tableau.com:9443/views/SalesDashboardDemoProject/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+   
